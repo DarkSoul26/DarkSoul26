@@ -1,12 +1,12 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Sanchit Kalsi 😁</h1>
-<h3 align="center">I'm a sophomore studying Information Technology. A passionate graphic designer.</h3>
+<h3 align="center">I'm a sophomore studying Information Technology. I'm also a passionate graphic designer.</h3>
 
 - 🔭 I’m currently pursuing **Information Technology** at [PICT, Pune][collegeW].
 - 💬 Ask me anything, and I'll try to answer it to the fullest. 
-- 💻 Exploring anything and everything that I find interesting.
-- 🚀 I’m currently learning **Data Structures and Algorithms, and Web Development**.
+- 💻 Exploring whatever I find interesting.
+- 🚀 I’m currently learning **Data Structures and Algorithms**, and **Web Development**.
 - 📫 How to reach me: **sanchitkalsi@gmail.com**.
-- 🥅 2021 Goals: Contribute to **Open Source** projects and explore new technologies.
+- 🥅 **2021 Goals**: Contribute to **Open Source** projects and explore new technologies.
 - ⚡ Fun fact: I love **graphic designing** and **playing basketball**.
 
 <h3 align="left">Connect with me:</h3>
@@ -27,9 +27,7 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/css3.png" alt="css3" width="50" height="50"/> </a> 
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="50" height="50"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>  
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/> </a>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=DarkSoul26.DarkSoul26)
 
