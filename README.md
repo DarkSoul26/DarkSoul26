@@ -5,7 +5,7 @@
 - 💬 Ask me anything, and I'll try to answer it to the fullest. 
 - 💻 Exploring whatever I find interesting.
 - 🚀 I’m currently learning **Data Structures and Algorithms**, and **Web Development**.
-- 📫 How to reach me: **sanchitkalsi@gmail.com**.
+- 📫 How to reach me: **sanchitkalsi@gmail.com** or visit my **[Website](https://portfoliosk.netlify.app/).**
 - 🥅 **2021 Goals**: Contribute to **Open Source** projects and explore new technologies.
 - ⚡ Fun fact: I love **graphic designing** and **playing basketball**.
 
