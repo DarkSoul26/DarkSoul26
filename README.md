@@ -30,19 +30,21 @@
 📈 **My GitHub Stats:**
 
 <p align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkSoul26&theme=dracula&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img align="center"  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkSoul26&theme=dracula" alt="GitHub Streak"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkSoul26&theme=gruvbox&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
    </p>
 <p align="center">
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSoul26&theme=dracula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img align="center"  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DarkSoul26&theme=gruvbox" alt="GitHub Streak"/>
+   </p>
+<p align="center">
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSoul26&theme=gruvbox&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkSoul26&theme=xcode)](https://git.io/DarkSoul26)
+[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkSoul26&theme=gruvbox)](https://git.io/DarkSoul26)
 
 ### Profile Trophies
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=G-Sudarshan)](https://github.com/ryo-ma/github-profile-trophy) -->
 	
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=DarkSoul26&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/DarkSoul26)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=DarkSoul26&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=gruvbox)](https://github.com/DarkSoul26)
 
 [collegeW]: https://pict.edu
