@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/KalsiSanchit" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/twitter--v1.png" alt="KalsiSanchit"/ height="50" width="50"></a>
 <a href="https://www.linkedin.com/in/sanchit-k-09a172199/" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="sanchit-k-09a172199" height="50" width="50"/></a>
-<a href="https://t.me/lucifer2601" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/telegram-app--v5.png" alt="lucifer2601" height="50" width="50"/></a>
+<a href="https://t.me/sanchitkalsi" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/telegram-app--v5.png" alt="lucifer2601" height="50" width="50"/></a>
 <a href="https://www.instagram.com/_kalsi_sanchit" target="blank"><img align="center" src="https://img.icons8.com/fluency/64/000000/instagram-new.png" alt="_kalsi_sanchit" height="50" width="50"/></a>
 
 | Domain | Technology |
