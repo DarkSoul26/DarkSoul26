@@ -5,14 +5,14 @@
 - 💬 Ask me anything, and I'll try to answer it to the fullest. 
 - 💻 Exploring whatever I find interesting.
 - 🚀 I’m currently learning **Data Structures and Algorithms**, and **Cloud Computing**.
-- 📫 How to reach me: **sanchitkalsi@gmail.com** or visit my **[Website](https://portfoliosk.netlify.app/).**
+- 📫 How to reach me: **sanchitkalsi@gmail.com** or visit my **[Website](https://sanchitkalsi.netlify.app/).**
 - 🥅 **2022 Goals**: Contribute to **Open Source** projects and explore new technologies.
 - ⚡ Fun fact: I love **graphic designing** and **playing basketball**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/KalsiSanchit" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/twitter--v1.png" alt="KalsiSanchit"/ height="50" width="50"></a>
-<a href="https://www.linkedin.com/in/sanchit-k-09a172199/" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="sanchit-k-09a172199" height="50" width="50"/></a>
+<a href="https://www.linkedin.com/in/sanchit-kalsi/" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="sanchit-k-09a172199" height="50" width="50"/></a>
 <a href="https://t.me/sanchitkalsi" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/telegram-app--v5.png" alt="lucifer2601" height="50" width="50"/></a>
 <a href="https://www.instagram.com/_kalsi_sanchit" target="blank"><img align="center" src="https://img.icons8.com/fluency/64/000000/instagram-new.png" alt="_kalsi_sanchit" height="50" width="50"/></a>
 
