@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Sanchit Kalsi 😁</h1>
-<h3 align="center">I'm a Junior studying Information Technology. I'm also a passionate graphic designer.</h3>
+<h3 align="center">I'm a Senior studying Information Technology. I'm also a passionate graphic designer.</h3>
 
 - 🔭 I’m currently pursuing **Information Technology** at [PICT, Pune][collegeW].
 - 💬 Ask me anything, and I'll try to answer it to the fullest. 
