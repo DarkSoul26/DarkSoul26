@@ -4,7 +4,7 @@
 - 🔭 I’m currently pursuing **Information Technology** at [PICT, Pune][collegeW].
 - 💬 Ask me anything, and I'll try to answer it to the fullest. 
 - 💻 Exploring whatever I find interesting.
-- 🚀 I’m currently learning **Data Structures and Algorithms**, and **Cloud Computing**.
+- 🚀 I’m currently learning **Data Structures and Algorithms**, **Cloud Computing**, and **Blockchain**.
 - 📫 How to reach me: **sanchitkalsi@gmail.com** or visit my **[Website](https://sanchitkalsi.netlify.app/).**
 - 🥅 **2022 Goals**: Contribute to **Open Source** projects and explore new technologies.
 - ⚡ Fun fact: I love **graphic designing** and **playing basketball**.
