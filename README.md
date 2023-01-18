@@ -39,7 +39,13 @@
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSoul26&theme=gruvbox&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkSoul26&theme=gruvbox)](https://git.io/DarkSoul26)
+<!-- [![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkSoul26&theme=gruvbox)](https://git.io/DarkSoul26) -->
+
+### Snake eating my contribution graph 😧🐍
+
+<p align="center">
+	 <img align="center" height="180em" src="https://github.com/DarkSoul26/DarkSoul26/blob/output/github-contribution-grid-snake.gif"/>
+</p>
 
 ### Profile Trophies
 
