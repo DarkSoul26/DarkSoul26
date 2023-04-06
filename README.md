@@ -9,7 +9,7 @@
 - 🥅 **2023 Goals**: Contribute to **Open Source** projects and explore new technologies.
 - ⚡ Fun fact: I love **photography** and **playing basketball**.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://twitter.com/KalsiSanchit" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/twitter--v1.png" alt="KalsiSanchit"/ height="50" width="50"></a>
 <a href="https://www.linkedin.com/in/sanchit-kalsi/" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="sanchit-k-09a172199" height="50" width="50"/></a>
