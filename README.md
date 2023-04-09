@@ -7,7 +7,7 @@
 - 🚀 I’m currently learning **Data Structures and Algorithms**, **Cloud Computing**, and **Blockchain**.
 - 📫 How to reach me: **sanchitkalsi@gmail.com** or visit my **[Website](https://sanchitkalsi.netlify.app/).**
 - 🥅 **2023 Goals**: Contribute to **Open Source** projects and explore new technologies.
-- ⚡ Fun fact: I love **photography** and **playing basketball**.
+- ⚡ Fun fact: I love **photography** and **playing basketball & football**.
 
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
