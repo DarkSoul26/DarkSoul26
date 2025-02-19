@@ -1,7 +1,7 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Sanchit Kalsi 😁</h1>
 <h3 align="center">Passionate Software Developer/Engineer.</h3>
 
-- 🔭 I’m currently pursuing **Information Technology** at [PICT, Pune][collegeW].
+- 🔭 I'm a Software Engineer at **Barclays**.
 - 💬 Ask me anything, and I'll try to answer it to the fullest. 
 - 💻 Exploring whatever I find interesting.
 - 🚀 I’m currently learning **Data Structures and Algorithms**, **Cloud Computing**, and **Blockchain**.
@@ -41,12 +41,6 @@
 
 <!-- [![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarkSoul26&theme=gruvbox)](https://git.io/DarkSoul26) -->
 
-### Snake eating my contribution graph 😧🐍
-
-<p align="center">
-	 <img align="center" height="180em" src="https://github.com/DarkSoul26/DarkSoul26/blob/output/github-contribution-grid-snake.gif"/>
-</p>
-
 ### Profile Trophies 🏆
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=G-Sudarshan)](https://github.com/ryo-ma/github-profile-trophy) -->
@@ -62,13 +56,3 @@
 <p align="center">	
 	<img align="center" height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
-### Random Dev Meme 😂
-<p align="center">
-	<img align="center" src="https://rm.up.railway.app/" width="512px"/>
-</p>
-
-### You can help me by Donating 💰
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/corvett26) 
-  
-[collegeW]: https://pict.edu
